@@ -1,5 +1,5 @@
-<!-- # [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](10)
- -->
+# [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](10)
+
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-chakra.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-chakra/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-chakra.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-chakra/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Product Gif](https://i.ibb.co/WPpvjCn/argon-dashboard-chakra-free.png)
